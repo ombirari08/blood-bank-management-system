@@ -10,7 +10,7 @@
 > ⚠️ **Notice**  
 > This repository is for demonstration and educational purposes only.  
 > Unauthorized use, copying, or redistribution of this code is strictly prohibited.  
-> To request permission or inquire about collaboration, contact me at: **your.email@example.com**
+> To request permission or inquire about collaboration, contact me at: **ombirari08@gmail.com**
 
 ---
 
