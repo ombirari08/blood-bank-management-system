@@ -1,0 +1,33 @@
+{% extends 'userbase.html' %}
+{% load static %}
+
+{% block content %}
+<section class="about_section layout_padding">
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="{% static 'assets1/images/about-img.jpg'%}" height="300" width="200" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                About <span>Us</span>
+              </h2>
+            </div>
+            <p>
+              The Blood Bank Donor Management System is designed to streamline the process of managing blood donations, donors, and blood bank operations. Our system aims to enhance efficiency by maintaining accurate donor records, tracking donations, and ensuring the availability of blood for emergencies. Through this platform, we ensure safe and timely donations, contributing to saving lives in critical medical situations.
+
+
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+{% endblock %}
